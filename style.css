@@ -1,7 +1,16 @@
+header{
+    width:80%
+
+
+
+}
+nav ul li{
+    display: inline;
+}
+
+
+
 body {
     
 }
 
-header {
-    width:80%;
-}
