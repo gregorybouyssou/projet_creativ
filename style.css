@@ -1,16 +1,44 @@
 header{
-    width:80%
-
-
-
+    background-color:blue;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: white;
+    text-align: center;
 }
+
+
 nav ul li{
+
+    font-size: 30px;
     display: inline;
+    float: right;
+    padding: px
 }
 
+h1{
+    color: white;
+   text-align: center;
+   font-size: 30px;
+   padding: 60px;
+}
+
+a{
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+ }
 
 
-body {
     
-}
+
+
+
+
+
 
